@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+$body-color: #efefef;
+
+body {
+  background: $body-color;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
